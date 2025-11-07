@@ -1,0 +1,3 @@
+gradio>=5.49.0
+spacy==3.8.2
+huggingface-hub<1.0.0
