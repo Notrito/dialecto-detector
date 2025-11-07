@@ -6,7 +6,7 @@ from collections import Counter
 
 # Cargar modelo
 print("Cargando modelo...")
-nlp = spacy.load("./model")
+nlp = spacy.load("./model-last")
 print("✓ Modelo cargado")
 
 # Función de detección
