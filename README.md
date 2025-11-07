@@ -13,6 +13,9 @@ pinned: false
 
 Modelo de NLP basado en spaCy para detectar y clasificar dialectos del español (argentino 🇦🇷 vs español peninsular 🇪🇸).
 
+Código para Hugging Face spaces:
+https://huggingface.co/spaces/notrito/dialecto-detector
+
 ## 🎯 Descripción
 
 Este proyecto utiliza un modelo NER (Named Entity Recognition) entrenado con spaCy para identificar palabras y expresiones características de dos variantes del español:
