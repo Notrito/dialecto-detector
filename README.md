@@ -47,7 +47,8 @@ El modelo detecta automáticamente:
 - **spaCy 3.8.2**: Framework de NLP
 - **Gradio 4.44.0**: Interfaz web interactiva
 - **Pipeline**: tok2vec + ner
-- **Modelo base**: es_core_news_sm
+- **Modelo base**: es_core_news_md
+- **Dataset**: https://huggingface.co/datasets/pysentimiento/spanish-tweets
 
 ## 💡 Casos de Uso
 
